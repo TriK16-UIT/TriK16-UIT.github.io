@@ -2,16 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  image_circular: true
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -24,4 +19,3 @@ Now, I’m diving deep into NLP (Natural Language Processing). I’m excited to 
 
 <a href="https://github.com/TriK16-UIT" target="_blank" style="margin-right: 15px"><i class="fab fa-github fa-lg"></i> Github</a>
 <a href="mailto:cyk4chuu@gmail.com" style="margin-right: 15px"><i class="far fa-envelope-open fa-lg"></i> Mail</a>
-<a href="https://www.facebook.com/profile.php?id=100008546088622" style="margin-right: 15px"><i class="fa-brands fa-facebook"></i> Facebook</a>
