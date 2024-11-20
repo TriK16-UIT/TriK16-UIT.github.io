@@ -1,14 +1,7 @@
-github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
-
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - TriK16-UIT/Dueling-Network-Architectures-for-Deep-Reinforcement-Learning 
+  - TriK16-UIT/AICHCM2024 
+  - TriK16-UIT/Student-Management-System 
+  - TriK16-UIT/Control_car_by_hand_gesture
+  - TriK16-UIT/Convolutional-Neural-Network-from-Scratch
+  - TriK16-UIT/Datasets-Analysis 
